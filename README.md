@@ -6,8 +6,8 @@ I am a web developer in continuous training, currently I have knowledge of front
 #### Github Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=jeremy15a&show_icons=true&theme=dark)
 
-## Working on
-RhinoLabs Agency
+// ## Working on
+// RhinoLabs Agency 
 
 ## Contact me! 📝
 [Linkedin](https://www.linkedin.com/in/jeremy-amador-marquina-943464264/) | 
