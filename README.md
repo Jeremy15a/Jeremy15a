@@ -1,16 +1,15 @@
-### Hi there 👋
+![me](banner.jpg)
 
-<!--
-**Jeremy15a/Jeremy15a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a web developer in continuous training, currently I have knowledge of frontend and backend development. In programming languages at the moment, I only know JavaScript. Before beginning my education in web development, I was a graphic designer (specifically for companies) creating logos, layouts and others, using programs such as Illustrator, Photoshop, or Premiere Pro. Therefore, it gave me a certain facility to handle UI/UX design inside the frontend.
 
-Here are some ideas to get you started:
+#### Github Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=jeremy15a&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working on
+RhinoLabs Agency
+
+## Contact me! 📝
+[Linkedin](https://www.linkedin.com/in/jeremy-amador-marquina-943464264/) | 
+[Instagram](https://www.instagram.com/jeremy.amador.15/) | 
+
